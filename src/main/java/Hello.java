@@ -1,6 +1,6 @@
 public class Hello {
 
 	public static void main(String[] args) {
-		System.out.printIn("Hello from the potager");
+		System.out.printIn("Hello from the potager of Lucie and Noe");
 	}
 }
