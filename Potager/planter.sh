@@ -7,3 +7,5 @@ echo "Planter des tomates (trop drôle)"
 echo " J'adore écrire des lignes "
 
 echo "mdr"
+
+echo "echo echo lol"
